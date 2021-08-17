@@ -4,3 +4,4 @@ Keep it Simple -- Consistency, simplicity, understandable, don't over-engineer
 Get in "The Zone" -- make sure you have ~3 uninterrupted hours without distractions to focus.
 Always be learning -- get out of your comfort zone.
 Collaborate with other programmers to save time and effort
+Understand that programming is a solo activity. Try spending a lot of time alone
