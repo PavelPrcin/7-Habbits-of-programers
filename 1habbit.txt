@@ -1,2 +1,3 @@
 Physically Demanding Activity -- Exercise, Get Sunshine, Sit Straight (good posture), Take frequent breaks, drink fluids.
 Get it Done" attitude -- Keep your eye on the goal, Don't focus large periods of time on small bugs
+ Keep it Simple -- Consistency, simplicity, understandable, don't over-engineer,
